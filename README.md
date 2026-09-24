@@ -1,4 +1,4 @@
 # Klipper-Backup 💾 
-Klipper backup script for manual or automated GitHub backups 
+Automated GitHub Klipper backup script for an Annex K3 printer
 
 This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/Klipper-Backup).
